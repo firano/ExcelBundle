@@ -26,7 +26,7 @@
             "type":"git",
             "url":"http://github.com/v-knyazev/PHPExcel"
         }
-    ]
+    ],
     "autoload": {
         "psr-0": {
             "Liuggio\\ExcelBundle": ""
