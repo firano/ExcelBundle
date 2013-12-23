@@ -21,12 +21,6 @@
         "irongit/symfony2-stream-response": ">=1.0",
         "v-knyazev/phpexcel": "dev-master"
     },
-    "repositories":[
-        {
-            "type":"git",
-            "url":"http://github.com/v-knyazev/PHPExcel"
-        }
-    ],
     "autoload": {
         "psr-0": {
             "Liuggio\\ExcelBundle": ""
